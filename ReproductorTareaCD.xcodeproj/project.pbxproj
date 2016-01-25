@@ -7,12 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		62A5C7F71C48988000653465 /* MusicaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A5C7F61C48988000653465 /* MusicaViewController.swift */; };
 		62BE54331C45F90900B392BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BE54321C45F90900B392BA /* AppDelegate.swift */; };
 		62BE54351C45F90900B392BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BE54341C45F90900B392BA /* ViewController.swift */; };
 		62BE54381C45F90900B392BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54361C45F90900B392BA /* Main.storyboard */; };
 		62BE543A1C45F90900B392BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54391C45F90900B392BA /* Assets.xcassets */; };
 		62BE543D1C45F90900B392BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62BE543B1C45F90900B392BA /* LaunchScreen.storyboard */; };
 		62BE54481C45F90900B392BA /* ReproductorTareaCDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BE54471C45F90900B392BA /* ReproductorTareaCDTests.swift */; };
+		62BE54591C4620F300B392BA /* Black or white.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54541C4620F300B392BA /* Black or white.mp3 */; };
+		62BE545A1C4620F300B392BA /* Crazy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54551C4620F300B392BA /* Crazy.mp3 */; };
+		62BE545B1C4620F300B392BA /* Escapar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54561C4620F300B392BA /* Escapar.mp3 */; };
+		62BE545C1C4620F300B392BA /* I want to break free.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54571C4620F300B392BA /* I want to break free.mp3 */; };
+		62BE545D1C4620F300B392BA /* Un misil en mi placard.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54581C4620F300B392BA /* Un misil en mi placard.mp3 */; };
+		62BE54621C46211E00B392BA /* Kudai - Grandes Exitos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62BE545E1C46211E00B392BA /* Kudai - Grandes Exitos.jpg */; };
+		62BE54631C46211E00B392BA /* Michael Jackson - Number Ones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62BE545F1C46211E00B392BA /* Michael Jackson - Number Ones.jpg */; };
+		62BE54641C46211E00B392BA /* Queen - Greatest Hits 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54601C46211E00B392BA /* Queen - Greatest Hits 2.jpg */; };
+		62BE54651C46211E00B392BA /* Soda Stereo - Unplugged.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54611C46211E00B392BA /* Soda Stereo - Unplugged.jpg */; };
+		62BE54671C46213000B392BA /* Aerosmith - Big Ones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62BE54661C46213000B392BA /* Aerosmith - Big Ones.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		62A5C7F61C48988000653465 /* MusicaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicaViewController.swift; sourceTree = "<group>"; };
 		62BE542F1C45F90900B392BA /* ReproductorTareaCD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReproductorTareaCD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62BE54321C45F90900B392BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		62BE54341C45F90900B392BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +48,16 @@
 		62BE54431C45F90900B392BA /* ReproductorTareaCDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReproductorTareaCDTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		62BE54471C45F90900B392BA /* ReproductorTareaCDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReproductorTareaCDTests.swift; sourceTree = "<group>"; };
 		62BE54491C45F90900B392BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62BE54541C4620F300B392BA /* Black or white.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Black or white.mp3"; sourceTree = "<group>"; };
+		62BE54551C4620F300B392BA /* Crazy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Crazy.mp3; sourceTree = "<group>"; };
+		62BE54561C4620F300B392BA /* Escapar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Escapar.mp3; sourceTree = "<group>"; };
+		62BE54571C4620F300B392BA /* I want to break free.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I want to break free.mp3"; sourceTree = "<group>"; };
+		62BE54581C4620F300B392BA /* Un misil en mi placard.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Un misil en mi placard.mp3"; sourceTree = "<group>"; };
+		62BE545E1C46211E00B392BA /* Kudai - Grandes Exitos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kudai - Grandes Exitos.jpg"; sourceTree = "<group>"; };
+		62BE545F1C46211E00B392BA /* Michael Jackson - Number Ones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Michael Jackson - Number Ones.jpg"; sourceTree = "<group>"; };
+		62BE54601C46211E00B392BA /* Queen - Greatest Hits 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Queen - Greatest Hits 2.jpg"; sourceTree = "<group>"; };
+		62BE54611C46211E00B392BA /* Soda Stereo - Unplugged.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Soda Stereo - Unplugged.jpg"; sourceTree = "<group>"; };
+		62BE54661C46213000B392BA /* Aerosmith - Big Ones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aerosmith - Big Ones.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,10 +101,12 @@
 			children = (
 				62BE54321C45F90900B392BA /* AppDelegate.swift */,
 				62BE54341C45F90900B392BA /* ViewController.swift */,
+				62A5C7F61C48988000653465 /* MusicaViewController.swift */,
 				62BE54361C45F90900B392BA /* Main.storyboard */,
 				62BE54391C45F90900B392BA /* Assets.xcassets */,
 				62BE543B1C45F90900B392BA /* LaunchScreen.storyboard */,
 				62BE543E1C45F90900B392BA /* Info.plist */,
+				62BE54531C4620BA00B392BA /* Musica */,
 			);
 			path = ReproductorTareaCD;
 			sourceTree = "<group>";
@@ -94,6 +118,24 @@
 				62BE54491C45F90900B392BA /* Info.plist */,
 			);
 			path = ReproductorTareaCDTests;
+			sourceTree = "<group>";
+		};
+		62BE54531C4620BA00B392BA /* Musica */ = {
+			isa = PBXGroup;
+			children = (
+				62BE54661C46213000B392BA /* Aerosmith - Big Ones.jpg */,
+				62BE545E1C46211E00B392BA /* Kudai - Grandes Exitos.jpg */,
+				62BE545F1C46211E00B392BA /* Michael Jackson - Number Ones.jpg */,
+				62BE54601C46211E00B392BA /* Queen - Greatest Hits 2.jpg */,
+				62BE54611C46211E00B392BA /* Soda Stereo - Unplugged.jpg */,
+				62BE54541C4620F300B392BA /* Black or white.mp3 */,
+				62BE54551C4620F300B392BA /* Crazy.mp3 */,
+				62BE54561C4620F300B392BA /* Escapar.mp3 */,
+				62BE54571C4620F300B392BA /* I want to break free.mp3 */,
+				62BE54581C4620F300B392BA /* Un misil en mi placard.mp3 */,
+			);
+			name = Musica;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,9 +219,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62BE54621C46211E00B392BA /* Kudai - Grandes Exitos.jpg in Resources */,
+				62BE545C1C4620F300B392BA /* I want to break free.mp3 in Resources */,
+				62BE545D1C4620F300B392BA /* Un misil en mi placard.mp3 in Resources */,
+				62BE54671C46213000B392BA /* Aerosmith - Big Ones.jpg in Resources */,
+				62BE54651C46211E00B392BA /* Soda Stereo - Unplugged.jpg in Resources */,
+				62BE54641C46211E00B392BA /* Queen - Greatest Hits 2.jpg in Resources */,
+				62BE54631C46211E00B392BA /* Michael Jackson - Number Ones.jpg in Resources */,
+				62BE545A1C4620F300B392BA /* Crazy.mp3 in Resources */,
 				62BE543D1C45F90900B392BA /* LaunchScreen.storyboard in Resources */,
 				62BE543A1C45F90900B392BA /* Assets.xcassets in Resources */,
 				62BE54381C45F90900B392BA /* Main.storyboard in Resources */,
+				62BE545B1C4620F300B392BA /* Escapar.mp3 in Resources */,
+				62BE54591C4620F300B392BA /* Black or white.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				62BE54351C45F90900B392BA /* ViewController.swift in Sources */,
+				62A5C7F71C48988000653465 /* MusicaViewController.swift in Sources */,
 				62BE54331C45F90900B392BA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -386,6 +439,7 @@
 				62BE544E1C45F90900B392BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		62BE544F1C45F90900B392BA /* Build configuration list for PBXNativeTarget "ReproductorTareaCDTests" */ = {
 			isa = XCConfigurationList;
@@ -394,6 +448,7 @@
 				62BE54511C45F90900B392BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
